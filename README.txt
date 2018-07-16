@@ -1,4 +1,4 @@
-# Logs Analysis Projec
+# Logs Analysis Project
 
 # Tools
 
